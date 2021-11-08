@@ -1,0 +1,6 @@
+.header-section {
+    background-image: url(../../../img/bannerbackground.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
