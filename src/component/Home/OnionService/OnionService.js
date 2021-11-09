@@ -33,7 +33,7 @@ const OnionService = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="hover:shadow-2xl  p-2 cursor-pointer">
+                    <div className="hover:shadow-2xl rounded-md  p-2 cursor-pointer">
                         <div className="flex justify-center">
                             <img className="w-100" src="https://i.ibb.co/h7J0gdv/chef-cook-food-33614.png" alt="" />
                         </div>
@@ -48,7 +48,7 @@ const OnionService = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="hover:shadow-2xl p-2 cursor-pointer" >
+                    <div className="hover:shadow-2xl rounded-md p-2 cursor-pointer" >
                         <div className="flex justify-center">
                             <img className="w-100" src="https://i.ibb.co/r5cf11Z/architecture-building-city-2047397.png" alt="" />
                         </div>
